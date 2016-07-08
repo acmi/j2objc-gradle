@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <groupId>com.github.j2objccontrib.j2objcgradle</groupId>
+    <artifactId>j2objc-gradle</artifactId>
+    <versioning>
+        <versions>
+            <version>0.6.1-alpha-SNAPSHOT</version>
+        </versions>
+        <lastUpdated>20160708000000</lastUpdated>
+    </versioning>
+</metadata>
